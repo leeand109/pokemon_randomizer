@@ -22,5 +22,6 @@ I'm hoping to make this a long-term thing if possible, but I will have the Rando
 
 3. Hit "Randomize (Save)" and save the randomized file to your location of choice.
 
+If you want some ROMS, there may be a surprise [here](https://drive.google.com/drive/folders/1Ee1U-K8JU-y2n1myfmylG-XjGPH0YEek?usp=drive_link)!
 
 Hope you have fun!
