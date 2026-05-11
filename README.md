@@ -13,9 +13,13 @@ I'm hoping to make this a long-term thing if possible, but I will have the Rando
 
 ### STEP 4: Set your randomized seed.
 1. When prompted, open your desired ROM file (This UPR will work with generations 1-7).
+
 ![UPR Startup](UPRStartupScreen.png)
+
 2. You can select any randomized traits you want in regards to general gameplay.
+
 ![UPR Setup](UPRSetupScreen.png)
+
 3. Hit "Randomize (Save)" and save the randomized file to your location of choice.
 
 
